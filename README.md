@@ -8,7 +8,7 @@
 ###### 登录页面：
 ![图片描述](https://github.com/liyingdan/Permission_SSM/blob/master/images/20190903112311.png)
    
-###### 登录页面：
+###### 详情页面：
 ![图片描述](https://github.com/liyingdan/Permission_SSM/blob/master/images/20190903112237.png)
    
    
